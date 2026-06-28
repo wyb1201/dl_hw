@@ -1,0 +1,11 @@
+﻿path,sentence,speaker
+asr-experiments/wav2vec2/static/分工/speaker_01/part/pub/C/-11.wav,早上起来脸有点肿,speaker_01
+asr-experiments/wav2vec2/static/分工/speaker_01/part/pub/B/-21.wav,心里烦躁,speaker_01
+asr-experiments/wav2vec2/static/分工/speaker_01/part/pub/B/-22.wav,情绪紧张,speaker_01
+asr-experiments/wav2vec2/static/分工/speaker_01/part/pub/B/-23.wav,一直咳,speaker_01
+asr-experiments/wav2vec2/static/分工/speaker_01/part/pub/B/-24.wav,喉咙痒咳嗽,speaker_01
+asr-experiments/wav2vec2/static/分工/speaker_02/pub/part/D/1-100/-48.wav,肠胃不好又没食欲,speaker_02
+asr-experiments/wav2vec2/static/分工/speaker_02/pub/part/D/1-100/-49.wav,腰酸同时肾那块疼,speaker_02
+asr-experiments/wav2vec2/static/分工/speaker_02/pub/part/D/1-100/-50.wav,后背疼还脖子疼,speaker_02
+asr-experiments/wav2vec2/static/分工/speaker_02/pub/part/D/1-100/-51.wav,肩痛加上手腕酸痛,speaker_02
+asr-experiments/wav2vec2/static/分工/speaker_03/pub/D/1-100/-48.wav,肠胃不好又没食欲,speaker_03

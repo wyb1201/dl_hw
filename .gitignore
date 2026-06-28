@@ -1,0 +1,32 @@
+# Python / Jupyter cache
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.jupyter_data/
+.jupyter_runtime/
+
+# Office / temporary files
+~$*
+*.tmp
+
+# Large ML artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.tar
+*.tar.gz
+*.zip
+
+# Audio / raw dataset files
+*.wav
+*.m4a
+*.mp3
+*.flac
+
+# Do not accidentally add the full ASR experiment tree.
+# Small result/code files are force-added explicitly for submission.
+课程设计(低资源衡阳方言语音识别系统)/asr-experiments/**

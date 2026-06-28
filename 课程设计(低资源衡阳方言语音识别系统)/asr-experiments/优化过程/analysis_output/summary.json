@@ -1,0 +1,18 @@
+{
+  "before_csv": "predictions（标注错误）.csv",
+  "after_csv": "first-after-correct\\first-after-correct\\predictions（修正标注）.csv",
+  "generated_dir": "D:\\asr-experiments\\优化过程\\analysis_output",
+  "files": [
+    "fig_eval_curve_from_trainer_state.png",
+    "fig_grid_exact_match.png",
+    "fig_grid_mean_cer.png",
+    "fig_label_correction_compare.png",
+    "fig_train_loss_curve_from_trainer_state.png",
+    "table_eval_curve_points_from_trainer_state.csv",
+    "table_grid_search_metrics.csv",
+    "table_label_correction_metrics.csv",
+    "table_label_correction_rowwise.csv",
+    "table_label_correction_top_improved_100.csv",
+    "table_train_loss_points_from_trainer_state.csv"
+  ]
+}
